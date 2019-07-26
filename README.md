@@ -5,15 +5,25 @@ Install Wireshark on your platform of choice.   Download from https://www.wiresh
 
 ------
 
+## Presentation file
+
+IPv6-for-the-IPv4-Brain_v1.2.pdf  is the presentation pdf
+
+------
+
 ## Sample trace file
 
-There is a sample trace file available. 
+IPv6-for-the-IPv4-Brain.pcapng is a sample trace file
 
 ------
 
 ## Additional files
 
-There are additional reference files available.
+IPv6-main.zip is an IPv6 based Wireshark configuration profile
+
+An IPv6 cheat sheet pdf
+
+Wireshark 101 Quick Reference pdf (not mine, © 2014 PacketIQ Inc.)
 
 ------
 
@@ -33,4 +43,4 @@ https://www.cellstream.com/resources/wireshark-profiles-repository
 
 ------
 
-rev 07142019-0812
+rev 07252019-2245

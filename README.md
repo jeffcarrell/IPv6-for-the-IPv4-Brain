@@ -23,7 +23,7 @@ IPv6-main.zip is an IPv6 based Wireshark configuration profile
 
 An IPv6 cheat sheet pdf
 
-Wireshark 101 Quick Reference pdf (not mine, © 2014 PacketIQ Inc.)
+Wireshark 101 Quick Reference pdf, a little older, but still good info!  (not mine, © 2014 PacketIQ Inc.)
 
 ------
 
